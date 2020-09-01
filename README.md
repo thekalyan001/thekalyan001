@@ -1,5 +1,7 @@
 ### Hi there 👋
+i'm Kalyan from India, and i do codings & I really enjoy learning Tech languages and frameworks like React and Angular and i also like to write & design the contents, Wanna checkout my linkedin at https://in.linkedin.com/in/kalyan-mishra-b79982178?trk=people-guest_people_search-card.
 
+Reach me at chess.com- kalyan7662
 <!--
 **thekalyan001/thekalyan001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
