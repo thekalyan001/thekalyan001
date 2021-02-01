@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is kalyan from India, and i do codings & I really enjoy learning Tech languages and frameworks like React and Angular and i also like to write & design the contents, You can checkout my linkedin at https://in.linkedin.com/in/kalyan-mishra-b79982178?.
+This is kalyan from India ,i do codings & I really enjoy learning Technologies and be a part of it's devlopment. You can checkout my linkedin at https://in.linkedin.com/in/kalyan-mishra-b79982178?.
 
 Reach me at chess.com- kalyan7662
 <!--
