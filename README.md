@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for a geeks 
 - 💬 Ask me about ... 🙄
 - ⚡ Fun fact: I Like 😉
-- 
-<img alt="Night Coding" src="https://media.giphy.com/media/pIU9Pr4vW9RUtaE5xd/giphy.gif" width="400" height="200" align="right"/>
 
+<img alt="Night Coding" src="https://media.giphy.com/media/pIU9Pr4vW9RUtaE5xd/giphy.gif" width="320" height="180" align="right"/>
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -38,7 +37,7 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thekalyan001&show_icons=true&theme=gotham" alt="kalyan mishra" />
 -->
   
-  ### ⚙️ &nbsp; My GitHub Analytics
+### ⚙️ &nbsp; My GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AVS1508">
