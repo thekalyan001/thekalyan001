@@ -2,6 +2,8 @@
 
 This is [kalyan Mishra](https://github.com/thekalyan001/),a passionate Android developer from India ,i do codings & I really enjoy learning Technologies and be a part of it's devlopment.I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these technologies. 
 
+![Visitor Count](https://profile-counter.glitch.me/thekalyan001/count.svg)
+
 Reach me at chess.com- kalyan7662
 <!--
 **thekalyan001/thekalyan001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
