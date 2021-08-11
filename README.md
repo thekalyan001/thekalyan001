@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ### ⚙️ &nbsp; My GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/thekalyan001">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thekalyan001&show_icons=true&theme=gotham"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thekalyan001&layout=compact&langs_count=8&theme=algolia"/>
 </a>
