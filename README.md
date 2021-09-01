@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... 🙄
 - ⚡ Fun fact: I Like 😉
 
-<img alt="Night Coding" src="https://media.giphy.com/media/pIU9Pr4vW9RUtaE5xd/giphy.gif" width="320" height="180" align="right"/>
-
+<!-- <img alt="Night Coding" src="https://media.giphy.com/media/pIU9Pr4vW9RUtaE5xd/giphy.gif" width="320" height="180" align="right"/>
+ -->
+ <img alt="Night Coding" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/cold-face_1f976.png" width="180" height="180" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
