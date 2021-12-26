@@ -10,7 +10,7 @@ Reach me at chess.com- kalyan7662
 
 Here are some ideas to get you started:
 -->
-// https://emojipedia.org/skype/
+
  <img alt="winter" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/cloud-with-snow_1f328-fe0f.png" width="150" height="150" align="right"/>
 
 
