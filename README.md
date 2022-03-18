@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Kalyan mishra's | Instagram" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" />
 </a>
 <a href="https://cutt.ly/KalyanChannel">
-  <img align="left" alt="Kalyan Mishra's | Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left"  alt="Kalyan Mishra's | Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 <a href="https://in.linkedin.com/in/kalyan-mishra-b79982178?/">
   <img align="left" alt="Kalyan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
