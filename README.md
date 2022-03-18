@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+[![Kalyan's Contribution graph](https://activity-graph.herokuapp.com/graph?username=thekalyan001&theme=react-dark)](https://github.com/thekalyan001/github-readme-activity-graph)
 
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="https://www.instagram.com/thekalyan001">
