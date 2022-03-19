@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-This is [kalyan Mishra](https://github.com/thekalyan001/), a passionate Android developer from India , i do codings & I really enjoy learning Technologies and be a part of it's devlopment. I am interested in learning Android,ML 💖 to grow my knowledge in these technologies. 
+This is [kalyan Mishra](https://github.com/thekalyan001/), a passionate Android developer from India , i do codings & I really enjoy learning Technologies and be a part of it's devlopment. I am interested in learning Android,Web 💖 to grow my knowledge in these technologies. 
 
 ![Visitor Count](https://profile-counter.glitch.me/thekalyan001/count.svg)
 
