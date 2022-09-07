@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a Student
 - 💡  I like to explore new technologies 
-- 🌱 I’m currently learning : 📱 Dev
+- 🌱 I’m currently learning : 💻 & 📱 Dev
 - 🤔 I’m looking for a geeks 
 - 💬 Ask me about ... 🙄
 - ⚡ Fun fact: I Like 😉
