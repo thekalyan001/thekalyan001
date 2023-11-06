@@ -53,18 +53,18 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thekalyan001&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+<!--  
 [![Kalyan's Contribution graph](https://activity-graph.herokuapp.com/graph?username=thekalyan001&theme=react-dark)](https://github.com/thekalyan001/github-readme-activity-graph)
-
+-->
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="https://www.instagram.com/thekalyan001">
   <img align="left" alt="Kalyan mishra's | Instagram" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" />
 </a>
 <a href="https://cutt.ly/KalyanChannel">
-  <img align="left"  alt="Kalyan Mishra's | Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left"  alt="Kalyan Mishra's | Youtube" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/youtube.svg" />
 </a>
 <a href="https://in.linkedin.com/in/kalyan-mishra-b79982178?/">
-  <img align="left" alt="Kalyan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Kalyan's LinkedIN" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />
 </a>
 
 
