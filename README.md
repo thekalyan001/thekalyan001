@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 <!-- <img alt="Night Coding" src="https://media.giphy.com/media/pIU9Pr4vW9RUtaE5xd/giphy.gif" width="320" height="180" align="right"/>
  -->
  <img alt="student" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/blossom_1f33c.png" width="160" height="160" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
+ 
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -70,6 +69,6 @@ Here are some ideas to get you started:
   <img align="left"  alt="Kalyan Mishra's | Youtube" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/youtube.svg" />
 </a>
 <a href="https://in.linkedin.com/in/kalyan-mishra-b79982178?/">
-  <img align="left" alt="Kalyan's LinkedIN" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />
+  <img align="left" alt="Kalyan's LinkedIN" width="22px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
 </a>
 
