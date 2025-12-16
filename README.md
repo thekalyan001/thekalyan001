@@ -3,6 +3,7 @@
 This is [kalyan Mishra](https://github.com/thekalyan001/), a passionate S/w developer from India , i do codings & I really enjoy learning Technologies and be a part of it's devlopment. I am interested in learning Web & i would 💖 to grow my knowledge in new technologies. 
 
 ![Visitor Count](https://profile-counter.glitch.me/thekalyan001/count.svg)
+![Visitor Count](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=blue) 
 
 Reach me at chess.com- kalyan7662
 <!--
