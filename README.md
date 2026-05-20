@@ -60,9 +60,9 @@ Here are some ideas to get you started:
 [![Kalyan's Contribution graph](https://activity-graph.herokuapp.com/graph?username=thekalyan001&theme=react-dark)](https://github.com/thekalyan001/github-readme-activity-graph)
 -->
  🤝🏻 &nbsp; Connect with Me
-<a href="https://www.instagram.com/thekalyan001">
+<!-- <a href="https://www.instagram.com/thekalyan001">
   <img align="left" alt="Kalyan mishra's | Instagram" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" />
-</a>
+</a> -->
 <a href="https://cutt.ly/KalyanChannel">
   <img align="left"  alt="Kalyan Mishra's | Youtube" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/youtube.svg" />
 </a>
