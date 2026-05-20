@@ -1,29 +1,27 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
 
-This is [kalyan Mishra](https://github.com/thekalyan001/), a passionate S/w developer from India , i do codings & I really enjoy learning Technologies and be a part of it's devlopment. I am interested in learning Web & i would 💖 to grow my knowledge in new technologies. 
+I'm Kalyan Mishra, a Full Stack Engineer from India passionate about building scalable web applications, cloud-native systems, and developer platforms.
+
+Currently working on frontend architecture, backend microservices, API platform engineering, and cloud infrastructure using modern technologies like React.js, Spring Boot, Node.js, Kubernetes, and Google Cloud Platform (GCP).
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+Java • JavaScript • TypeScript • Python • SQL • C++
+
+### 🌐 Development
+React.js • Redux • Tailwind CSS • Material UI • Spring Boot • Node.js • Express.js • REST APIs • GraphQL
+
+### ☁️ Cloud & DevOps
+Google Cloud Platform (GCP) • Kubernetes • Docker • Jenkins • Harness • Apigee • CI/CD
+
+### 🗄️ Databases
+PostgreSQL • MySQL
+
  
-Reach me at chess.com- kalyan7662
-<!--
-**thekalyan001/thekalyan001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
- <!--<img alt="winter" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/cloud-with-snow_1f328-fe0f.png" width="150" height="150" align="right"/> -->
-
-
-- 🎓 **Status:** Student
-- 🚀 **Passion:** Exploring and mastering emerging technologies
-- 🌱 **Currently Learning:** Web and Mobile Development
-- 🤝 **Looking to Connect:** Fellow tech enthusiasts and innovators
-- 💬 **Ask Me About:** Tech trends, or anything coding-related!
-- 🎉 **Fun Fact:** I love diving into new challenges and learning something new every day!
-
-<!-- <img alt="Night Coding" src="https://media.giphy.com/media/pIU9Pr4vW9RUtaE5xd/giphy.gif" width="320" height="180" align="right"/>
- -->
- <img alt="student" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/blossom_1f33c.png" width="160" height="160" align="right"/>
  
-
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
