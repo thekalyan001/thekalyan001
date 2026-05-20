@@ -1,47 +1,66 @@
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z.gif" width="28px">
 
-I'm Kalyan Mishra, a Full Stack Engineer from India passionate about building scalable web applications, cloud-native systems, and developer platforms.
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-Currently working on frontend architecture, backend microservices, API platform engineering, and cloud infrastructure using modern technologies like React.js, Spring Boot, Node.js, Kubernetes, and Google Cloud Platform (GCP).
+<div style="width: 70%;">
+
+### I'm Kalyan Mishra 👋  
+<div>
+<div style="display: inline-block; width: 70%; vertical-align: top;">
+
+Full Stack Engineer from India passionate about building **scalable web applications, cloud-native systems, and developer platforms**.
+
+Currently working on **frontend architecture, backend microservices, API platform engineering, and cloud infrastructure** using:  
+React.js • Spring Boot • Node.js • Kubernetes • Google Cloud Platform (GCP)
+
+</div>
+
+<!-- <div style="display: inline-block; width: 25%; vertical-align: top; text-align: center;">
+  <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/blossom_1f33c.png"
+       width="150"
+       style="border-radius: 50%; box-shadow: 0 8px 20px rgba(0,0,0,0.15);" />
+</div> -->
+
+</div>
 
 ---
 
-## 🚀 Tech Stack
+- 🎓 **Status:** Explorer -
+- 🚀 **Passion:** Exploring and mastering emerging technologies -
+- 🌱 **Currently Learning:** New technologies -
+- 🤝 **Looking to Connect:** Fellow tech enthusiasts and innovators -
+- 💬 **Ask Me About:** Tech trends, or anything coding-related! -
+- 🎉 **Fun Fact:** I love diving into new challenges and learning something new every day!
 
-### 💻 Languages
-Java • JavaScript • TypeScript • Python • SQL • C++
-
-### 🌐 Development
-React.js • Redux • Tailwind CSS • Material UI • Spring Boot • Node.js • Express.js • REST APIs • GraphQL
-
-### ☁️ Cloud & DevOps
-Google Cloud Platform (GCP) • Kubernetes • Docker • Jenkins • Harness • Apigee • CI/CD
-
-### 🗄️ Databases
-PostgreSQL • MySQL
-
- 
  
 ### 🛠 &nbsp;Tech Stack
 
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; 
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;\
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)&nbsp;
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-05122A?style=flat&logo=gitlab)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;\
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;\
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
 
- 
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css)&nbsp;
+![Material UI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=mui)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
+
+![Google Cloud](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=google-cloud)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
+![Harness](https://img.shields.io/badge/-Harness-05122A?style=flat&logo=terraform)&nbsp;
+![Apigee](https://img.shields.io/badge/-Apigee-05122A?style=flat&logo=google-cloud)&nbsp;
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-05122A?style=flat&logo=githubactions)&nbsp;
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 <!--  github stat shower 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thekalyan001&show_icons=true&theme=gotham" alt="kalyan mishra" />
 -->
@@ -50,8 +69,7 @@ PostgreSQL • MySQL
 
 <p align="center">
 <a href="https://github.com/thekalyan001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thekalyan001&show_icons=true&theme=gotham"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thekalyan001&layout=compact&langs_count=8&theme=algolia"/>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thekalyan001&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <!--  
